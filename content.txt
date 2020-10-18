@@ -1,0 +1,10 @@
+18th october, 2020
+
+Dear Mr. Cena,
+
+Visibility_of_element_located(By.Hand,"Cena")
+even my code cannot see you !?
+please be visible.
+
+Regards,
+Raj Rajan Talashilkar
