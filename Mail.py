@@ -205,7 +205,7 @@ def arrowkey():
 Function Name:schedule_time
 Function call:schedule_time()
 Use: schedule_time is a button on the Email webpage which opens after arrowkey is pressed,
-     and after pressing it it opens another dialog box to set time and date
+     and after pressing it, it opens another dialog box to set time and date
 """
 def schedule_time():
     try:
